@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\bin\Debug\net6.0\12.1 - OOP.exe
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\bin\Debug\net6.0\12.1 - OOP.deps.json
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\bin\Debug\net6.0\12.1 - OOP.runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\bin\Debug\net6.0\12.1 - OOP.dll
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\bin\Debug\net6.0\12.1 - OOP.pdb
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.dll
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\refint\12.1 - OOP.dll
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.pdb
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\12.1 - OOP.genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\C#\12.1 - OOP\obj\Debug\net6.0\ref\12.1 - OOP.dll

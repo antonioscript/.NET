@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\bin\Debug\net6.0\1 - Calculadora IMC.exe
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\bin\Debug\net6.0\1 - Calculadora IMC.deps.json
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\bin\Debug\net6.0\1 - Calculadora IMC.runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\bin\Debug\net6.0\1 - Calculadora IMC.dll
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\bin\Debug\net6.0\1 - Calculadora IMC.pdb
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.dll
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\refint\1 - Calculadora IMC.dll
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.pdb
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\1 - Calculadora IMC.genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\C#\100 - Projetos\1 - Calculadora IMC\obj\Debug\net6.0\ref\1 - Calculadora IMC.dll

@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\bin\Debug\net6.0\01 - Hello_World.exe
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\bin\Debug\net6.0\01 - Hello_World.deps.json
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\bin\Debug\net6.0\01 - Hello_World.runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\bin\Debug\net6.0\01 - Hello_World.dll
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\bin\Debug\net6.0\01 - Hello_World.pdb
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.dll
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\refint\01 - Hello_World.dll
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.pdb
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\01 - Hello_World.genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\C#\01 - Hello_World\obj\Debug\net6.0\ref\01 - Hello_World.dll
