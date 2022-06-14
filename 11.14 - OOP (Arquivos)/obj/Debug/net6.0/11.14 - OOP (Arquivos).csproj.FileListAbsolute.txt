@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\bin\Debug\net6.0\11.14 - OOP (Arquivos).exe
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\bin\Debug\net6.0\11.14 - OOP (Arquivos).deps.json
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\bin\Debug\net6.0\11.14 - OOP (Arquivos).runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\bin\Debug\net6.0\11.14 - OOP (Arquivos).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\bin\Debug\net6.0\11.14 - OOP (Arquivos).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\refint\11.14 - OOP (Arquivos).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\11.14 - OOP (Arquivos).genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.14 - OOP (Arquivos)\obj\Debug\net6.0\ref\11.14 - OOP (Arquivos).dll

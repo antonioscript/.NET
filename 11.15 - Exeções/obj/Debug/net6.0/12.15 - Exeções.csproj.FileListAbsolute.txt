@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\bin\Debug\net6.0\12.15 - Exeções.exe
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\bin\Debug\net6.0\12.15 - Exeções.deps.json
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\bin\Debug\net6.0\12.15 - Exeções.runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\bin\Debug\net6.0\12.15 - Exeções.dll
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\bin\Debug\net6.0\12.15 - Exeções.pdb
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.dll
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\refint\12.15 - Exeções.dll
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.pdb
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\12.15 - Exeções.genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\12.15 - Exeções\obj\Debug\net6.0\ref\12.15 - Exeções.dll

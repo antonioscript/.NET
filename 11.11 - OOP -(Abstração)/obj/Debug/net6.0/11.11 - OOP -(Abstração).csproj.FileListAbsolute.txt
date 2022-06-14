@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\bin\Debug\net6.0\11.11 - OOP -(Abstração).exe
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\bin\Debug\net6.0\11.11 - OOP -(Abstração).deps.json
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\bin\Debug\net6.0\11.11 - OOP -(Abstração).runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\bin\Debug\net6.0\11.11 - OOP -(Abstração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\bin\Debug\net6.0\11.11 - OOP -(Abstração).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\refint\11.11 - OOP -(Abstração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\11.11 - OOP -(Abstração).genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.11 - OOP -(Abstração)\obj\Debug\net6.0\ref\11.11 - OOP -(Abstração).dll

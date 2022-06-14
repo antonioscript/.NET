@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\bin\Debug\net6.0\11.12 - OOP (Interfaces).exe
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\bin\Debug\net6.0\11.12 - OOP (Interfaces).deps.json
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\bin\Debug\net6.0\11.12 - OOP (Interfaces).runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\bin\Debug\net6.0\11.12 - OOP (Interfaces).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\bin\Debug\net6.0\11.12 - OOP (Interfaces).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\refint\11.12 - OOP (Interfaces).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\11.12 - OOP (Interfaces).genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.12 - OOP (Interfaces)\obj\Debug\net6.0\ref\11.12 - OOP (Interfaces).dll

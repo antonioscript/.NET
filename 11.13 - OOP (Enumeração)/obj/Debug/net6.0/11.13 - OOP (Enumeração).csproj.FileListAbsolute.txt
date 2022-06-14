@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\bin\Debug\net6.0\11.13 - OOP (Enumeração).exe
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\bin\Debug\net6.0\11.13 - OOP (Enumeração).deps.json
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\bin\Debug\net6.0\11.13 - OOP (Enumeração).runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\bin\Debug\net6.0\11.13 - OOP (Enumeração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\bin\Debug\net6.0\11.13 - OOP (Enumeração).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\refint\11.13 - OOP (Enumeração).dll
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\11.13 - OOP (Enumeração).genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.13 - OOP (Enumeração)\obj\Debug\net6.0\ref\11.13 - OOP (Enumeração).dll

@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.AssemblyInfo.cs
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\bin\Debug\net6.0\11.10  - Poliorfismo.exe
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\bin\Debug\net6.0\11.10  - Poliorfismo.deps.json
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\bin\Debug\net6.0\11.10  - Poliorfismo.runtimeconfig.json
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\bin\Debug\net6.0\11.10  - Poliorfismo.dll
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\bin\Debug\net6.0\11.10  - Poliorfismo.pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.dll
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\refint\11.10  - Poliorfismo.dll
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.pdb
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\11.10  - Poliorfismo.genruntimeconfig.cache
+C:\Users\Antônio Jr\Desktop\.NET\11.10  - Poliorfismo\obj\Debug\net6.0\ref\11.10  - Poliorfismo.dll
